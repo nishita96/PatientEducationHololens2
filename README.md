@@ -17,19 +17,16 @@ Our specific aims :
 
 * Develop an AR system combined with a 3D printed model of the skull to supplement outpatient clinical visits to discuss neuromodulation surgery. Specifically, this model will utilize a generic 3D printed skull that will be used as a universal model. Three different holographic models will be made for the three targeted neuromodulation surgeries (DBS, RNS, sEEG) and overlayed onto the skull depending on the clinical visit and the surgery that is being discussed.
 
-<!-- https://github.com/nishita96/PatientEducationHololens2/assets/24264347/b1dcfd83-f713-4633-bb32-e2370fa99714 -->
-<img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/b1dcfd83-f713-4633-bb32-e2370fa99714" width="300">
+<img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/b1dcfd83-f713-4633-bb32-e2370fa99714" width="500">
 
 
-https://github.com/nishita96/PatientEducationHololens2/assets/24264347/226e8df5-328d-4604-87d7-497e9c5a6191
+<img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/226e8df5-328d-4604-87d7-497e9c5a6191" width="500">
 
 
-
-https://github.com/nishita96/PatientEducationHololens2/assets/24264347/9c3cc1be-e9e1-4f54-82bb-d458015214e6
-
+<img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/9c3cc1be-e9e1-4f54-82bb-d458015214e6" width="500">
 
 
-https://github.com/nishita96/PatientEducationHololens2/assets/24264347/c7adc573-c7a3-49a2-9872-ddf3ad7d015b
+<img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/c7adc573-c7a3-49a2-9872-ddf3ad7d015b" width="500">
 
 
 * Assess the utility of the AR aid in improving patient education, perceived risk, comfort, and anxiety related to the specific procedure. We will randomize a cohort of patients undergoing evaluation for DBS, RNS or sEEG to 1 of 2 groups: an experimental group which will receive education using the AR system and a control group which will receive standard education alone. 
