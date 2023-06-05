@@ -1,21 +1,20 @@
 # Use of Augmented Reality to Improve Patient Health Literacy in Neuromodulation 
 
 
-### Use of Augmented Reality to Improve Patient Health Literacy in Neuromodulation
 
 
 Despite proven efficacy and improvement in quality of life, advanced therapies in neurosurgery involving neuromodulation for the treatment of movement disorders, psychiatric disorders and epilepsy remain underutilized. While the reasons for this are multifaceted (e.g. fear, access, communication barriers, education, trust, social support, physician bias), patient education remains central to improving health-literacy and physician-patient interactions. Standardized content for patient education and engagement in neuromodulation is not well established. Without identifiable structural pathology and small surgical targets, patients often supplement with personal research. 
 
-Our goal is to utilize an AR visualization system **(HoloLens® 2, Microsoft)** to model neuromodulation therapies to help inform patients in clinic during pre-surgical evaluations. The model will be designed to help enhance comprehension with the goal of reducing procedural anxiety. Specifically, we will target three main neuromodulation surgeries: 
+Our goal was to utilize an AR visualization system **(HoloLens® 2, Microsoft)** to model neuromodulation therapies to help inform patients in clinic during pre-surgical evaluations. The model is designed to help enhance comprehension with the goal of reducing procedural anxiety. Specifically, we target three main neuromodulation surgeries: 
 * Deep brain stimulation (DBS)
 * Responsive neurostimulation (RNS) 
 * Stereoencephalography (sEEG). 
 
 
-Our specific aims :
+###Our specific aims :
 
 
-* Develop an AR system combined with a 3D printed model of the skull to supplement outpatient clinical visits to discuss neuromodulation surgery. Specifically, this model will utilize a generic 3D printed skull that will be used as a universal model. Three different holographic models will be made for the three targeted neuromodulation surgeries (DBS, RNS, sEEG) and overlayed onto the skull depending on the clinical visit and the surgery that is being discussed.
+* Develop an AR system combined with a 3D printed model of the skull to supplement outpatient clinical visits to discuss neuromodulation surgery. Specifically, this model utilizes a generic 3D printed skull that is used as a universal model. Three different holographic models are made for the three targeted neuromodulation surgeries (DBS, RNS, sEEG) and overlayed onto the skull depending on the clinical visit and the surgery that is being discussed.
 
 
 Launching the app:
