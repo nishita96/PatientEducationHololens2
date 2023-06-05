@@ -19,7 +19,10 @@ Our specific aims :
 
 
 Launching the app:
+
+<div align="center">
 <img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/b1dcfd83-f713-4633-bb32-e2370fa99714" width="500">
+</div>
 
 Detecting the image and displaying the model for one surgery:
 <img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/226e8df5-328d-4604-87d7-497e9c5a6191" width="500">
