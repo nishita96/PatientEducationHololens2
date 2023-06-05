@@ -24,15 +24,26 @@ Launching the app:
 <img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/b1dcfd83-f713-4633-bb32-e2370fa99714" width="500">
 </div>
 
+
 Detecting the image and displaying the model for one surgery:
+
+<div align="center">
 <img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/226e8df5-328d-4604-87d7-497e9c5a6191" width="500">
+</div>
+
 
 Changing the model by detecting the new image:
+  
+<div align="center">
 <img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/9c3cc1be-e9e1-4f54-82bb-d458015214e6" width="500">
+</div>
+
 
 Dynamically updating views:
+  
+<div align="center">
 <img src="https://github.com/nishita96/PatientEducationHololens2/assets/24264347/c7adc573-c7a3-49a2-9872-ddf3ad7d015b" width="500">
-
+</div>
 
 * Assess the utility of the AR aid in improving patient education, perceived risk, comfort, and anxiety related to the specific procedure. We will randomize a cohort of patients undergoing evaluation for DBS, RNS or sEEG to 1 of 2 groups: an experimental group which will receive education using the AR system and a control group which will receive standard education alone. 
 
